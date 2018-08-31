@@ -1,0 +1,56 @@
+#bot_redes #redes-sociales #text-index p {
+    color: #ffffff;
+    margin-left: 30%;
+    font-size: 22px;
+    margin-top: 3%;
+    /*padding-top: 0px 10px 10px 10px;*/
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+ }
+ #bot_redes #redes-sociales #text-propuesta p {
+        color: #ffffff;
+    margin-left: 3%;
+    font-size: 22px;
+    margin-top: 4%;
+    /*padding-top: 0px 10px 10px 10px;*/
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+ }
+#redes-sociales a div {
+    float: left;
+    width: 51px;
+    height: 51px;
+    margin-top: 2%;
+    margin-left: 5px;
+    /*background-color: #074EA2;*/
+}
+#pie_redes #redes-sociales a div {
+    float: left;
+    width: 51px;
+    height: 51px;
+    margin-top: -2%;
+    margin-left: 2%;
+    /*background-color: #074EA2;*/
+}
+#icon-fb {
+    background-image: url(../imagenes/logos/logo-ico-fa-hover.png);
+}
+#icon-fb:hover {
+    background-image: url(../imagenes/logos/logo-ico-fa-plomo.png);
+}
+#icon-twitter {
+    background-image: url(../imagenes/logos/logo-tw.png);
+}
+#icon-twitter:hover {
+    background-image: url(../imagenes/logos/logo-tw-hover.png);
+}
+#icon-youtube {
+    background-image: url(../imagenes/logos/logo-youtube.png);
+}
+#icon-youtube:hover {
+    background-image: url(../imagenes/logos/logo-youtube-hover.png);
+}
+#icon-whatsapp {
+    background-image: url(../imagenes/logos/logo-wh.png);
+}
+#icon-whatsapp:hover {
+    background-image: url(../imagenes/logos/logo-wh-plomo.png);
+}
